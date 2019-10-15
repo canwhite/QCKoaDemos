@@ -16,7 +16,7 @@ Koa requires node v7.6.0+. If your version is older than that, upgrade Node firs
 
 
 ```bash
-$ git clone git@github.com:ruanyf/koa-demos.git
+$ git clone https://github.com/canwhite/QCKoaDemos ~/desktop
 ```
 
 Install the dependencies.
