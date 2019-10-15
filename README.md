@@ -22,7 +22,7 @@ $ git clone git@github.com:ruanyf/koa-demos.git
 Install the dependencies.
 
 ```bash
-$ cd koa-demos
+$ cd QCKoaDemos
 $ npm install
 ```
 
